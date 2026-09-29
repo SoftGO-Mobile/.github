@@ -1,1 +1,1 @@
-# .github
+# SoftGO - Mobile app Studio
